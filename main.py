@@ -1,4 +1,4 @@
-#auth-64448
+#auth-64448-test
 import os
 os.system("pip install -r requirements.txt")
 import discord
